@@ -1,1 +1,1 @@
-![Image of Yaktocat](imgs/Github header.png)
+![pokemon-weakness](imgs/Github header.png)
